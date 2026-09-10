@@ -1,5 +1,22 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+body{
+	Background-color: black;background: #009bf5;
+background: radial-gradient(circle, rgba(0, 155, 245, 1) 0%, rgba(0, 0, 0, 1) 27%);
+h2{
+	font-family: 'Instrument Serif', serif;
+	font-size: 120px;
+	color: rgb(254, 255, 255);
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	font-size: 120px;
+	color: rgb(76, 160, 238);
+	line-height: 3
+	
+}pre{
+	font-family: 'Oswald', sans-serif;
+	font-size: 120px;
+	line-height: 1;
+	color: rgb(12, 116, 26);
 }
